@@ -26,4 +26,4 @@ Outside temperature was higher than #1, less reflux.
 |----------|--------|-----|---|------------------------------------------------------------------------------------|
 | Macerate | 200ml  | 96% |   | 20gr dried citrus, 200ml@96% ABV + Macerated 48h                     |
 | Distill  | 550ml  | ~35% |   | (add 350ml water to macerate) Filtered - distilled without! orange peel in boiler. |
-| Product  | ~98ml  | 78% |   | Cutoff temp: ~85C on BBQ Temp. Slightly muf geurtje, much less tails and later in process. Is this due to macerating @96% ?                                        |
+| Product  | ~98ml  | 78% |   | Cutoff temp: ~85C on BBQ Temp. Slightly muf geurtje, less tails and later in process. Is this due to macerating @96% ? |
