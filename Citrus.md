@@ -1,8 +1,8 @@
 # Citrus
 
-## Bitter Orange
+##  Bitter Orange
 
-#### Bitter orange (1)
+#### 240601 Bitter orange (1)
 |          | volume | ABV |   | Notes                                                                            |
 |----------|--------|-----|---|----------------------------------------------------------------------------------|
 | Macerate | 400ml  | 60% |   | 20gr dried citrus, 250ml@96% ABV + 150ml water + Macerated 48h                |
@@ -12,11 +12,18 @@
 Distillation was a first try of the setup, simple distillation with no column or reflux.
 I was a bit optimistic in choosing the fractions, unfortunately still a hint of tails but very, very far away. 
 
-#### Bitter Orange (2)
+#### 240602 Bitter Orange (2)
 |          | volume | ABV |   | Notes                                                                              |
 |----------|--------|-----|---|------------------------------------------------------------------------------------|
 | Macerate | 400ml  | 60% |   | 20gr dried citrus, 250ml@96% ABV + 150ml water + Macerated 48h                     |
 | Distill  | 600ml  | 40% |   | (add 200ml water to macerate) Filtered - distilled without! orange peel in boiler. |
-| Product  | ~78ml  | 82% |   | Cutoff temp: ~83C. Very clean smell/taste.                                         |
+| Product  | ~78ml  | 82% |   | Cutoff temp: ~83C on BBQ Temp. Very clean smell/taste.                                         |
 
 Outside temperature was higher than #1, less reflux. 
+
+#### 240603 Bitter Orange (3)
+|          | volume | ABV |   | Notes                                                                              |
+|----------|--------|-----|---|------------------------------------------------------------------------------------|
+| Macerate | 200ml  | 96% |   | 20gr dried citrus, 200ml@96% ABV + Macerated 48h                     |
+| Distill  | 550ml  | ~35% |   | (add 350ml water to macerate) Filtered - distilled without! orange peel in boiler. |
+| Product  | ~98ml  | 78% |   | Cutoff temp: ~85C on BBQ Temp. Slightly muf geurtje, much less tails and later in process. Is this due to macerating @96% ?                                        |
