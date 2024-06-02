@@ -2,7 +2,7 @@
 
 ##  Bitter Orange
 
-#### 240601 Bitter orange (1)
+#### 2406/01 Bitter orange (1)
 |          | volume | ABV | Dist. Setup  | Notes                                                                            |
 |----------|--------|-----|---|----------------------------------------------------------------------------------|
 | Macerate | 400ml  | 60% |   | 20gr dried citrus, 250ml@96% ABV + 150ml water + Macerated 48h                |
@@ -12,7 +12,7 @@
 Distillation was a first try of the setup, simple distillation with no column or reflux.
 I was a bit optimistic in choosing the fractions, unfortunately still a hint of tails but very, very far away. 
 
-#### 240602 Bitter Orange (2)
+#### 2406/02 Bitter Orange (2)
 |          | volume | ABV | Dist. Setup  | Notes                                                                              |
 |----------|--------|-----|---|------------------------------------------------------------------------------------|
 | Macerate | 400ml  | 60% |   | 20gr dried citrus, 250ml@96% ABV + 150ml water + Macerated 48h                     |
@@ -21,7 +21,7 @@ I was a bit optimistic in choosing the fractions, unfortunately still a hint of 
 
 Outside temperature was higher than #1, less reflux. 
 
-#### 240603 Bitter Orange (3)
+#### 2406/03 Bitter Orange (3)
 |          | volume | ABV | Dist. Setup  | Notes                                                                              |
 |----------|--------|-----|---|------------------------------------------------------------------------------------|
 | Macerate | 200ml  | 96% |   | 20gr dried citrus, 200ml@96% ABV + Macerated 48h                     |
