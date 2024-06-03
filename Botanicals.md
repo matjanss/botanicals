@@ -1,23 +1,4 @@
-# Botanicals
-
-Notes on distilling botanicals (for ie. gin).
-
-Standard operating procedure:
-- Macerate 20gr botanicals in 250/150, meaning 250ml neutral alcohol@96% ABV + 150ml water resulting in a 60% ABV ethanol/water mixture.
-- Maceerate at room temperature for 24h.
-- Dilute with 200-400ml water to get 40-30% ABV macerate.
-- Distill with botanicals in boiler.
-
-There are some cases where botanicals have been filtered out (see ie. citrus peel essences, 2604/02-03) or maceration was not done (Carter head/gin basket in stead, flowers etc). 
-This is mentioned in the notes. Without mention, botanicals are boiled in the erlenmeyer during distillation.
-
-Distillation setup is either: 
-- Simple (Erlenmeyer, distilling head but no bridge, liebig slanted at ~25degrees down),
-- Standard (Erlenmeyer, glass column ~35cm empty, distilling head, liebig vertical down)
-- Packed Light (Erlenmeyer, glass column ~35cm packed with light Polish SPP, liebig vertical)
-- Packed Heavy (Erlenmeyer, glass column ~35cm packed with BB Jack SPP, liebig vertical)
-
-
+# Basics
 
 #### 2406/04 Coriander
 |          | volume | ABV | Dist. Setup.  | Notes                                                                              |
@@ -28,4 +9,35 @@ Distillation setup is either:
 
 Nice. Tossed about a teaspoon of heads. Nice and fresh early on, later somewhat darker, herbal, earthy but still nice. After 88C dark, murky bitter, soapy and sharpish. 
 Strong dilution (low ABV, say <20%) gives foul tastes after 87-88C in the simple setup.
+
+
+# Citrus
+
+##  Bitter Orange
+
+#### 2406/01 Bitter orange (1)
+|          | volume | ABV | Dist. Setup  | Notes                                                                            |
+|----------|--------|-----|---|----------------------------------------------------------------------------------|
+| Macerate | 400ml  | 60% |   | 20gr dried citrus, 250ml@96% ABV + 150ml water + Macerated 48h                |
+| Distill  | 600ml  | 40% | Simple  | add 200ml water to macerate. Unfiltered - distilled with orange peel in boiler. |
+| Product  | ~110ml | 80% |   | Cutoff temp: not measured / probably around 83C.           |
+
+Distillation was a first try of the setup, simple distillation with no column or reflux.
+I was a bit optimistic in choosing the fractions, unfortunately still a hint of tails but very, very far away. 
+
+#### 2406/02 Bitter Orange (2)
+|          | volume | ABV | Dist. Setup  | Notes                                                                              |
+|----------|--------|-----|---|------------------------------------------------------------------------------------|
+| Macerate | 400ml  | 60% |   | 20gr dried citrus, 250ml@96% ABV + 150ml water + Macerated 48h                     |
+| Distill  | 600ml  | 40% | Simple  | (add 200ml water to macerate) Filtered - distilled without! orange peel in boiler. |
+| Product  | ~78ml  | 82% |   | Cutoff temp: ~83C on BBQ Temp. Very clean smell/taste.                                         |
+
+Outside temperature was higher than #1, less reflux. 
+
+#### 2406/03 Bitter Orange (3)
+|          | volume | ABV | Dist. Setup  | Notes                                                                              |
+|----------|--------|-----|---|------------------------------------------------------------------------------------|
+| Macerate | 200ml  | 96% |   | 20gr dried citrus, 200ml@96% ABV + Macerated 48h                     |
+| Distill  | 550ml  | ~35% | Simple  | (add 350ml water to macerate) Filtered - distilled without! orange peel in boiler. |
+| Product  | ~98ml  | 78% |   | Cutoff temp: ~85C on BBQ Temp. Slightly muf geurtje, less tails and later in process. Is this due to macerating @96% ? |
 
