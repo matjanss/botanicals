@@ -18,7 +18,7 @@ Strong dilution (low ABV, say <20%) gives foul tastes after 87-88C in the simple
 | Product  | ~180ml  | 87% |   | Cutoff temp: ~85C on BBQ Temp.  |
 
 Discarded first 10ml, onset of tails is very gradual. Deeper into tails reminds of coriander tails. Taste changes gradually during distilling, first the lighter, brighter juniper notes come through, later the more medicinal and darker herbal tones come into play. Freshness is gone around 83C.
-
+May have included too much of the herbal notes. 
 
 # Citrus
 
