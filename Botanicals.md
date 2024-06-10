@@ -10,6 +10,15 @@
 Nice. Tossed about a teaspoon of heads. Nice and fresh early on, later somewhat darker, herbal, earthy but still nice. After 88C dark, murky bitter, soapy and sharpish. 
 Strong dilution (low ABV, say <20%) gives foul tastes after 87-88C in the simple setup.
 
+#### 2406/05 Juniper
+|          | volume | ABV | Dist. Setup.  | Notes                                                                              |
+|----------|--------|-----|---|------------------------------------------------------------------------------------|
+| Macerate | 400ml  | 60% |   | 60gr dried juniper, 250ml@96% ABV + 150ml water + Macerated 24h                    |
+| Distill  | 600ml  | ~40% |  Standard | (add 200ml water to macerate) Filtered - distilled with juniper in boiler. |
+| Product  | ~180ml  | 87% |   | Cutoff temp: ~85C on BBQ Temp.  |
+
+Discarded first 10ml, onset of tails is very gradual. Deeper into tails reminds of coriander tails. Taste changes gradually during distilling, first the lighter, brighter juniper notes come through, later the more medicinal and darker herbal tones come into play. Freshness is gone around 83C.
+
 
 # Citrus
 
