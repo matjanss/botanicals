@@ -20,6 +20,17 @@ Strong dilution (low ABV, say <20%) gives foul tastes after 87-88C in the simple
 Discarded first 10ml, onset of tails is very gradual. Deeper into tails reminds of coriander tails. Taste changes gradually during distilling, first the lighter, brighter juniper notes come through, later the more medicinal and darker herbal tones come into play. Freshness is gone around 83C.
 May have included too much of the herbal notes. 
 
+#### 2406/06 Angelica Seed
+
+|          | volume | ABV | Dist. Setup.  | Notes                                                                              |
+|----------|--------|-----|---|------------------------------------------------------------------------------------|
+| Macerate | 400ml  | 60% |   | 20 gr dried Angelica seed (grown, harvested and dried by Bert), 250ml@96% ABV + 150ml water + Macerated 24h                    |
+| Distill  | 600ml  | ~40% |  Standard | (add 200ml water to macerate) Filtered - distilled with angelica in boiler. |
+| Product  | ~190ml  | 88% |   | Cutoff temp: unknown |
+
+Surprising! Almost nothing in the tails department, only at the very last stages of distilling a faint menthol/coffee/chocolate like smell accompanying the more dried gras or hay like boiled green taste and smell. Starts out very fresh with lots of oils, discarded the first 10ml or so that had some funky stuff going on. 
+During the run the smell/taste gets thicker, however little additional aroma's are added. sometimes it smells almost fruity. 
+
 # Citrus
 
 ##  Bitter Orange
