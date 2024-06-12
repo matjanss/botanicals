@@ -31,6 +31,18 @@ May have included too much of the herbal notes.
 Surprising! Almost nothing in the tails department, only at the very last stages of distilling a faint menthol/coffee/chocolate like smell accompanying the more dried gras or hay like boiled green taste and smell. Starts out very fresh with lots of oils, discarded the first 10ml or so that had some funky stuff going on. 
 During the run the smell/taste gets thicker, however little additional aroma's are added. sometimes it smells almost fruity. 
 
+#### 2406/07 Orris root
+
+|          | volume | ABV | Dist. Setup.  | Notes                                                                              |
+|----------|--------|-----|---|------------------------------------------------------------------------------------|
+| Macerate | 400ml  | 60% |   | 20 gr dried orris root, 250ml@96% ABV + 150ml water + Macerated 24h                    |
+| Distill  | 600ml  | ~40% |  Standard | (add 200ml water to macerate) Filtered - distilled with root in boiler. |
+| Product  | ~190ml  | 88% |   | Cutoff temp: unknown |
+
+Tossed first 10ml. First distillate is relatively fresh, after which some more oily and later more woody, earthy, darkes tastes and smells come through. tails are very late in the process, they only come over when the alcohol is nearly depleted. No temperature taken, but they are very easily noticeable and start coming over quite suddenly. Very little warning/smearing before they start. 
+
+Strong smell and taste, all in all Very little orris root is needed. 
+
 # Citrus
 
 ##  Bitter Orange
