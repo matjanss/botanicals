@@ -37,7 +37,7 @@ During the run the smell/taste gets thicker, however little additional aroma's a
 |----------|--------|-----|---|------------------------------------------------------------------------------------|
 | Macerate | 400ml  | 60% |   | 20 gr dried orris root, 250ml@96% ABV + 150ml water + Macerated 24h                    |
 | Distill  | 600ml  | ~40% |  Standard | (add 200ml water to macerate) Filtered - distilled with root in boiler. |
-| Product  | ~190ml  | 88% |   | Cutoff temp: unknown |
+| Product  | ~210ml  | 88% |   | Cutoff temp: unknown |
 
 Tossed first 10ml. First distillate is relatively fresh, after which some more oily and later more woody, earthy, darkes tastes and smells come through. tails are very late in the process, they only come over when the alcohol is nearly depleted. No temperature taken, but they are very easily noticeable and start coming over quite suddenly. Very little warning/smearing before they start. 
 
