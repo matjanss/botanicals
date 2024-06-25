@@ -5,7 +5,7 @@
 |----------|--------|-----|---|------------------------------------------------------------------------------------|
 | Macerate | 400ml  | 60% |   | 40gr dried coriander, 250ml@96% ABV + 150ml water + Macerated 48h                     |
 | Distill  | 600ml  | ~40% |  Simple | (add 200ml water to macerate) Filtered - distilled with coriander in boiler. |
-| Product  | ~158ml  | 81% |   | Cutoff temp: ~87-88C on BBQ Temp. <br /> $ \frac{40gr.}{158ml.} = 0,25 gr/ml$ |
+| Product  | ~158ml  | 81% |   | Cutoff temp: ~87-88C on BBQ Temp. <br /> $\frac{40gr.}{158ml.}=0,25gr/ml$ |
 
 Nice. Tossed about a teaspoon of heads. Nice and fresh early on, later somewhat darker, herbal, earthy but still nice. After 88C dark, murky bitter, soapy and sharpish. 
 Strong dilution (low ABV, say <20%) gives foul tastes after 87-88C in the simple setup.
