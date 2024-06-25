@@ -5,7 +5,7 @@
 |----------|--------|-----|---|------------------------------------------------------------------------------------|
 | Macerate | 400ml  | 60% |   | 40gr dried coriander, 250ml@96% ABV + 150ml water + Macerated 48h                     |
 | Distill  | 600ml  | ~40% |  Simple | (add 200ml water to macerate) Filtered - distilled with coriander in boiler. |
-| Product  | ~158ml  | 81% |   | Cutoff temp: ~87-88C on BBQ Temp. <br /> $\frac{40gr.}{158ml.}=0,25gr/ml$ |
+| Product  | ~158ml  | 81% |   | Cutoff temp: ~87-88C on BBQ Temp. <br />$\frac{40gr.}{158ml.}=0,25gr/ml$ Coriander|
 
 Nice. Tossed about a teaspoon of heads. Nice and fresh early on, later somewhat darker, herbal, earthy but still nice. After 88C dark, murky bitter, soapy and sharpish. 
 Strong dilution (low ABV, say <20%) gives foul tastes after 87-88C in the simple setup.
@@ -15,7 +15,7 @@ Strong dilution (low ABV, say <20%) gives foul tastes after 87-88C in the simple
 |----------|--------|-----|---|------------------------------------------------------------------------------------|
 | Macerate | 400ml  | 60% |   | 60gr dried juniper, 250ml@96% ABV + 150ml water + Macerated 24h                    |
 | Distill  | 600ml  | ~40% |  Standard | (add 200ml water to macerate) Filtered - distilled with juniper in boiler. |
-| Product  | ~180ml  | 87% |   | Cutoff temp: ~85C on BBQ Temp. <br /> 60gr / 180 ml = 0,33 gr/ml |
+| Product  | ~180ml  | 87% |   | Cutoff temp: ~85C on BBQ Temp. <br />$\frac{60gr.}{180ml.}=0,33gr/ml$ |
 
 Discarded first 10ml, onset of tails is very gradual. Deeper into tails reminds of coriander tails. Taste changes gradually during distilling, first the lighter, brighter juniper notes come through, later the more medicinal and darker herbal tones come into play. Freshness is gone around 83C.
 May have included too much of the herbal notes. 
@@ -26,7 +26,7 @@ May have included too much of the herbal notes.
 |----------|--------|-----|---|------------------------------------------------------------------------------------|
 | Macerate | 400ml  | 60% |   | 20 gr dried Angelica seed (grown, harvested and dried by Bert), 250ml@96% ABV + 150ml water + Macerated 24h                    |
 | Distill  | 600ml  | ~40% |  Standard | (add 200ml water to macerate) Filtered - distilled with angelica in boiler. |
-| Product  | ~190ml  | 88% |   | Cutoff temp: unknown <br /> 20gr / 190 ml = |
+| Product  | ~190ml  | 88% |   | Cutoff temp: unknown <br /> $\frac{20gr.}{190ml.}=0,11gr/ml$ Angelica seed. |
 
 Surprising! Almost nothing in the tails department, only at the very last stages of distilling a faint menthol/coffee/chocolate like smell accompanying the more dried gras or hay like boiled green taste and smell. Starts out very fresh with lots of oils, discarded the first 10ml or so that had some funky stuff going on. 
 During the run the smell/taste gets thicker, however little additional aroma's are added. sometimes it smells almost fruity. 
@@ -37,7 +37,7 @@ During the run the smell/taste gets thicker, however little additional aroma's a
 |----------|--------|-----|---|------------------------------------------------------------------------------------|
 | Macerate | 400ml  | 60% |   | 20 gr dried orris root, 250ml@96% ABV + 150ml water + Macerated 24h                    |
 | Distill  | 600ml  | ~40% |  Standard | (add 200ml water to macerate) Filtered - distilled with root in boiler. |
-| Product  | ~210ml  | 88% |   | Cutoff temp: unknown |
+| Product  | ~210ml  | 88% |   | Cutoff temp: unknown <br /> $\frac{20gr.}{210ml.}=0,10gr/ml$ Orris root |
 
 Tossed first 10ml. First distillate is relatively fresh, after which some more oily and later more medicinal, woody, earthy, darkes tastes and smells come through. tails are very late in the process, they only come over when the alcohol is nearly depleted. No temperature taken, but they are very easily noticeable and start coming over quite suddenly. Very little warning/smearing before they start. 
 
@@ -49,7 +49,7 @@ Strong smell and taste, all in all Very little orris root is needed.
 |----------|--------|-----|---|------------------------------------------------------------------------------------|
 | Macerate | 400ml  | 60% |   | 20 gr dried Brasil pink pepper, 250ml@96% ABV + 150ml water + Macerated 24h                    |
 | Distill  | 600ml  | ~40% |  Standard | (add 200ml water to macerate) Filtered - distilled with root in boiler. |
-| Product  | ~180ml  | 87% |   | Cutoff temp: unknown, way at the end somewhere. <br /> 20gr / 180ml = 0,1 gr per ml|
+| Product  | ~180ml  | 87% |   | Cutoff temp: unknown, way at the end somewhere. <br /> $\frac{20gr.}{180ml.}=0,11gr/ml Pink pepper. |
 
 Tossed first 5ml. Beautiful smells. Soft, floral, fruity, peppery, spicy, minty (?). Sourced from local asian shop (Oriental Express NL), description on bottle says sourced from Brasil, so probably [Schinus Terebinthifolia](https://en.wikipedia.org/wiki/Schinus_terebinthifolia "Wikipedia: Schinus Terebinthifolia")
 
