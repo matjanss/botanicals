@@ -65,7 +65,7 @@ Oddly enough, there is a very, very nice but faint minty taste in it. Fresh, or 
 |----------|--------|-----|---|----------------------------------------------------------------------------------|
 | Macerate | 400ml  | 60% |   | 20gr dried citrus, 250ml@96% ABV + 150ml water + Macerated 48h  |
 | Distill  | 600ml  | 40% | Simple  | add 200ml water to macerate. Unfiltered - distilled with orange peel in boiler. |
-| Product  | ~110ml | 80% |   | Cutoff temp: not measured / probably around 83C. <br /><br />\frac{20gr.}{110ml.}=0,18gr/ml$ Bitter orange peel  |
+| Product  | ~110ml | 80% |   | Cutoff temp: not measured / probably around 83C. <br /><br />$\frac{20gr.}{110ml.}=0,18gr/ml$ Bitter orange peel  |
 
 Distillation was a first try of the setup, simple distillation with no column or reflux.
 I was a bit optimistic in choosing the fractions, unfortunately still a hint of tails but very, very far away. 
@@ -84,5 +84,5 @@ Outside temperature was higher than #1, less reflux.
 |----------|--------|-----|---|------------------------------------------------------------------------------------|
 | Macerate | 200ml  | 96% |   | 20gr dried citrus, 200ml@96% ABV + Macerated 48h                     |
 | Distill  | 550ml  | ~35% | Simple  | (add 350ml water to macerate) Filtered - distilled without! orange peel in boiler. |
-| Product  | ~98ml  | 78% |   | Cutoff temp: ~85C on BBQ Temp. Slightly muf geurtje, less tails and later in process. Is this due to macerating @96% ? <br /><br />$\frac{20gr.}{98ml.}=0,20gr/ml$ |
+| Product  | ~98ml  | 78% |   | Cutoff temp: ~85C on BBQ Temp. Slightly muf geurtje, less tails and later in process. Is this due to macerating @96% ? <br /><br />$\frac{20gr.}{98ml.}=0,20gr/ml$ Bitter orange peel|
 
