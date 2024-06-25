@@ -51,9 +51,10 @@ Strong smell and taste, all in all Very little orris root is needed.
 | Distill  | 600ml  | ~40% |  Standard | (add 200ml water to macerate) Filtered - distilled with root in boiler. |
 | Product  | ~180ml  | 87% |   | Cutoff temp: unknown, way at the end somewhere. <br /><br /> $\frac{20gr.}{180ml.}=0,11gr/ml$ Pink pepper. |
 
-Tossed first 5ml. Beautiful smells. Soft, floral, fruity, peppery, spicy, minty (?). Sourced from local asian shop (Oriental Express NL), description on bottle says sourced from Brasil, so probably [Schinus Terebinthifolia](https://en.wikipedia.org/wiki/Schinus_terebinthifolia "Wikipedia: Schinus Terebinthifolia")
+Tossed first 5ml. Sharp as hell. Followed by beautiful smells. Soft, floral, fruity, peppery, spicy, minty (?). Sourced from local asian shop (Oriental Express NL), description on bottle says sourced from Brasil, so probably [Schinus Terebinthifolia](https://en.wikipedia.org/wiki/Schinus_terebinthifolia "Wikipedia: Schinus Terebinthifolia")
 
 Oddly enough, there is a very, very nice but faint minty taste in it. Fresh, or cold, or "numbing" like in sechuan pepper (?).
+Very little tails and not very offending. Taste lingers throughout the process, although the fresher tastes and smells prevail in the earlier stages of distilling. As always. More taste in stronger solution, when diluted back to low abv (<20?) the peppery taste dominates.
 
 
 # Citrus
