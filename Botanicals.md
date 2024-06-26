@@ -48,7 +48,7 @@ Strong smell and taste, all in all Very little orris root is needed.
 |          | volume | ABV | Dist. Setup.  | Notes                                                                              |
 |----------|--------|-----|---|------------------------------------------------------------------------------------|
 | Macerate | 400ml  | 60% |   | 20 gr dried Brasil pink pepper, 250ml@96% ABV + 150ml water + Macerated 24h                    |
-| Distill  | 600ml  | ~40% |  Standard | (add 200ml water to macerate) Filtered - distilled with root in boiler. |
+| Distill  | 600ml  | ~40% |  Standard | (add 200ml water to macerate) Filtered - distilled with pepper in boiler. |
 | Product  | ~180ml  | 87% |   | Cutoff temp: unknown, way at the end somewhere. <br /><br /> $\frac{20gr.}{180ml.}=0,11gr/ml$ Pink pepper. |
 
 Tossed first 5ml. Sharp as hell. Followed by beautiful smells. Soft, floral, fruity, peppery, spicy, minty (?). Sourced from local asian shop (Oriental Express NL), description on bottle says sourced from Brasil, so probably [Schinus Terebinthifolia](https://en.wikipedia.org/wiki/Schinus_terebinthifolia "Wikipedia: Schinus Terebinthifolia")
