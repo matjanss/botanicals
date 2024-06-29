@@ -56,6 +56,19 @@ Tossed first 5ml. Sharp as hell. Followed by beautiful smells. Soft, floral, fru
 Oddly enough, there is a very, very nice but faint minty taste in it. Fresh, or cold, or "numbing" like in sechuan pepper (?).
 Very little tails and not very offending. Taste lingers throughout the process, although the fresher tastes and smells prevail in the earlier stages of distilling. As always. More taste in stronger solution, when diluted back to low abv (<20?) the peppery taste dominates.
 
+#### 2406/09 Lavender (from our own garden)
+
+|          | volume | ABV | Dist. Setup.  | Notes |
+|----------|--------|-----|---|------------------------------------------------------------------------------------|
+| Macerate | 400ml  | 60% |   | 20 gr dried lavender flowers, 250ml@96% ABV + 150ml water + Macerated ~36h |
+| Distill  | 600ml  | ~40% |  Standard | (add 200ml water to macerate) Filtered - distilled with lavender in boiler. |
+| Product  | ~170ml  | 86% |   | Cutoff temp: unknown, way at the end somewhere. <br /><br /> $\frac{20gr.}{170ml.}=0,12gr/ml$ lavender.|
+
+Tossed first ~20ml, first 5ml was weird and funky, the following ~15 was a bit odd and bland without any lavender smell/taste. The lavender oils come over later in the process, first very faintly, reminding of just a broad spectrum floral smell, later the lavender really pops out. And with pops out I mean it high fives you. In the face. With a chair. Made of steel.
+
+Further down the road a whole bunch of bitters kick in, and towars the end a mushy dark brown "distilled green" taste and smell.
+
+Lavender works best in (very) low concentrations, the taste is stronger than the smell (oddly enough), a little goes a long way.
 
 # Citrus
 
