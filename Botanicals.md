@@ -82,7 +82,7 @@ Lavender works best in (very) low concentrations, the taste is stronger than the
 |----------|--------|-----|---|------------------------------------------------------------------------------------|
 | Macerate | 400ml  | 60% |   | 18 gr black cardamom, 250ml@96% ABV + 150ml water + Macerated ~36h |
 | Distill  | 600ml  | ~40% |  Standard | (add 200ml water to macerate) Filtered - distilled with cardamom in boiler. |
-| Product  | ~170ml  | 86% |   | Cutoff temp: unknown, way at the end somewhere. <br /><br /> $\frac{18gr.}{210ml.}=0,086gr/ml$ cardamom.|
+| Product  | ~210ml  | 86% |   | Cutoff temp: unknown, way at the end somewhere. <br /><br /> $\frac{18gr.}{210ml.}=0,086gr/ml$ cardamom.|
 
 Tossed first ~15ml due to too funky taste and sharpness. Cardamom and smoke come over later. First stages of distillation have no smoke, some menthol-ish flavors and fresh-ish cardamom. The true black cardamom taste comes later in the process, say halfway through, smoked and more woody stuff at the end. No tails whatsoever (depending on your taste, of course, I personally think the smokey and woody flavors/smells are absolutely part of the black cardamom vibe). There is a herbal sweetness to it, aswell. 
 
