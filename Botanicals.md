@@ -91,7 +91,19 @@ All in all it has a very nice woody smokey herbally base layer with some funky h
 
 # Citrus
 
-##  Bitter Orange
+## Grapefruit ##
+
+#### 2407/11 Pink Grapefruit (regular grapefruit)
+
+|          | volume | ABV | Dist. Setup.  | Notes |
+|----------|--------|-----|---|------------------------------------------------------------------------------------|
+| x        | 400ml  | ~40% |   |  250ml@96% ABV + 350ml water (so basically wodka) |
+| Distill  | 600ml  | ~40% |  Carter | 40 gr fresh grapefruit peel cut to strips IN COLUMN. |
+| Product  | ~210ml  | 86% |   | Cutoff temp: unknown, way at the end somewhere. <br /><br /> $\frac{40gr.}{205ml.}=0,20gr/ml$ grapefruit peel.|
+
+Tossed first 10ml. Used fresh grapefruit peel without the pith (white), not dried. It's either that or, more likely, it's due to putting the peel in the column and not in the boiler. Maybe boiling citrus peel in a ethanol/water mix is a very efficient catalyst for forming tails. Look at the amount of product obtained before tails kick in. Half! 
+
+As of today I will never ever use citrus in the boiler anymore. Ever. 
 
 #### 2406/01 Bitter orange (1)
 |          | volume | ABV | Dist. Setup  | Notes   |
