@@ -16,3 +16,4 @@ This is mentioned in the notes. Without mention, botanicals are boiled in the er
 - Standard (Erlenmeyer, glass column ~35cm empty, distilling head, liebig vertical down)
 - Packed Light (Erlenmeyer, glass column ~35cm packed with light Polish SPP, liebig vertical)
 - Packed Heavy (Erlenmeyer, glass column ~35cm packed with BB Jack SPP, liebig vertical)
+- Carter (Carter head/Gin basket/herbs in glass column, liebig vertical)
